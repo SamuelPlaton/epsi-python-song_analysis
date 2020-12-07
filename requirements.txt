@@ -1,0 +1,12 @@
+Flask==1.1.1
+pytest
+
+Werkzeug==0.16.1
+flask-restplus
+pandas
+numpy==1.19.3
+spacy
+nltk
+gensim
+
+lyricsgenius
